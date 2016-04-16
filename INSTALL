@@ -1,0 +1,9 @@
+Building opentrade
+
+See doc/readme-qt.rst for instructions on building opentrade-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of opentrade.
+
+See doc/build-*.txt for instructions on building opentraded,
+the intended-for-services, no-graphical-interface, reference
+implementation of opentrade.
